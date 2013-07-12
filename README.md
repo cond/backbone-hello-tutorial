@@ -10,3 +10,9 @@ Sample 1
 
 1.html
 1.js
+
+Sample 2
+========
+
+2.html
+2.js
