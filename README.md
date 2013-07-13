@@ -32,3 +32,12 @@ Sample 3
 
 3.html
 3.js
+
+Sample 4
+========
+
+各要素のレンダリングを、ItemViewで行なうようにした。
+
+4.html
+4.js
+
