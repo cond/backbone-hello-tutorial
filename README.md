@@ -41,3 +41,11 @@ Sample 4
 4.html
 4.js
 
+
+Sample 5
+========
+
+[swap], [delete]ボタンを追加した。
+
+5.html
+5.js
